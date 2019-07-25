@@ -1,13 +1,8 @@
-img{
-  width: 855px;
-  height:650px;
+img1 {
+  width: 375px;
+  height:150px;
 }
 
-img{
-  padding-top: 50px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
 
 body {
   margin: 75px;
